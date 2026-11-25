@@ -5,9 +5,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:050816,35:111C44,70:4B1D78,100:00D9FF&text=JEEVAN%20P%20J&fontColor=FFFFFF&fontSize=62&fontAlignY=42&desc=DATA%20SCIENCE%20%7C%20MACHINE%20LEARNING%20%7C%20PYTHON&descSize=16&descAlignY=62&animation=fadeIn" width="100%" alt="Jeevan PJ neon technology banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:050816,35:111C44,70:4B1D78,100:00D9FF&text=JEEVAN%20P%20J&fontColor=FFFFFF&fontSize=62&fontAlignY=42&desc=DATA%20SCIENCE%20%7C%20MACHINE%20LEARNING%20%7C%20AI&descSize=16&descAlignY=62&animation=fadeIn" width="100%" alt="Jeevan PJ neon technology banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=%3E+Building+data-driven+solutions...;%3E+Exploring+Machine+Learning+%26+AI...;%3E+Turning+raw+data+into+useful+insights...;%3E+Learning.+Building.+Deploying." alt="Animated developer tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=%3E+Building+data-driven+solutions...;%3E+Building+Data+Science+%26+Machine+Learning+Projects...;%3E+From+data+preparation+to+predictive+models...;%3E+Learning.+Building.+Deploying." alt="Animated developer tagline"/>
 
 <br/>
 
@@ -22,9 +22,9 @@
 
 <div align="center">
 
-**Aspiring Data Scientist · Machine Learning Enthusiast · Python Developer**
+**Aspiring Data Scientist · Machine Learning Practitioner · AI Enthusiast**
 
-I enjoy exploring data, discovering patterns, and building machine learning projects that turn analytical ideas into practical applications.
+Data Science is my primary focus. I work across the complete data science lifecycle—from data collection, cleaning and exploration to statistical analysis, feature engineering, machine learning, model evaluation and deployment. I enjoy turning raw data into reliable insights and predictive solutions.
 
 </div>
 
@@ -33,20 +33,21 @@ I enjoy exploring data, discovering patterns, and building machine learning proj
 <td width="50%" valign="top">
 
 ### 🧠 Current Focus
-- Data analysis and exploratory data analysis
-- Statistics and data preprocessing
-- Machine learning algorithms
-- Model evaluation and feature engineering
-- Streamlit app development
+- End-to-end Data Science workflows
+- Data preprocessing, exploratory analysis and statistics
+- Supervised and unsupervised Machine Learning
+- Feature engineering, model selection and evaluation
+- Predictive modelling and AI applications
+- Deployment of data science solutions with Streamlit
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎯 Mission
-- Build practical end-to-end projects
-- Write clean, understandable code
-- Document experiments and results
-- Deploy useful ML applications
+- Build complete Data Science and Machine Learning projects
+- Transform raw datasets into analysis-ready data
+- Develop, tune and evaluate predictive models
+- Communicate findings through visualizations and applications
 - Keep learning through consistent practice
 
 </td>
@@ -59,11 +60,11 @@ I enjoy exploring data, discovering patterns, and building machine learning proj
 
 <div align="center">
 
-**LANGUAGES & DATA**
+**PROGRAMMING & DATA SCIENCE**
 
 <img src="https://skillicons.dev/icons?i=python,mysql" alt="Python and MySQL"/>
 
-**DATA SCIENCE & MACHINE LEARNING**
+**MACHINE LEARNING, AI & MODEL DEVELOPMENT**
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -71,7 +72,7 @@ I enjoy exploring data, discovering patterns, and building machine learning proj
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
 
-**DEVELOPMENT & TOOLS**
+**DATA SCIENCE ENVIRONMENT & DEPLOYMENT TOOLS**
 
 <img src="https://skillicons.dev/icons?i=jupyter,git,github,vscode,anaconda" alt="Jupyter, Git, GitHub, VS Code and Anaconda"/>
 <br/>
@@ -92,7 +93,7 @@ I enjoy exploring data, discovering patterns, and building machine learning proj
 
 ### 📦 Inventory Stock Risk Prediction
 
-Machine learning classification project to estimate potential stockout or overstock risk from inventory data.
+End-to-end Data Science and Machine Learning project: data preparation, exploratory analysis, feature engineering, classification model development, evaluation and Streamlit deployment to estimate inventory stockout or overstock risk.
 
 <a href="https://data-science-machine-learning-fznu5w5wlnbwajtyz6tvn4.streamlit.app/"><img src="https://img.shields.io/badge/⚡_LAUNCH_LIVE_APP-00D9FF?style=for-the-badge&logo=streamlit&logoColor=050816" alt="Launch live app"/></a>
 <a href="https://github.com/jeevanpj/data-science-machine-learning/tree/main/projects/inventory-stock-risk-prediction"><img src="https://img.shields.io/badge/⌘_VIEW_SOURCE-9B5CFF?style=for-the-badge&logo=github&logoColor=white" alt="View source code"/></a>
@@ -125,6 +126,6 @@ Machine learning classification project to estimate potential stockout or overst
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:4B1D78,100:050816&height=120&section=footer" width="100%" alt="Neon footer"/>
 
-<sub>⚡ LEARN • BUILD • EXPERIMENT • DEPLOY ⚡</sub>
+<sub>⚡ DATA SCIENCE • MACHINE LEARNING • AI • DEPLOYMENT ⚡</sub>
 
 </div>

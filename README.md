@@ -1,85 +1,130 @@
-<!-- Profile README for github.com/jeevanpj -->
+<!--
+  JEEVAN P J | GitHub Profile
+  Theme: Midnight / Neon cyan / Electric violet
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=JEEVAN%20P%20J&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=60&descSize=17" width="100%" alt="Jeevan PJ profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:050816,35:111C44,70:4B1D78,100:00D9FF&text=JEEVAN%20P%20J&fontColor=FFFFFF&fontSize=62&fontAlignY=42&desc=DATA%20SCIENCE%20%7C%20MACHINE%20LEARNING%20%7C%20PYTHON&descSize=16&descAlignY=62&animation=fadeIn" width="100%" alt="Jeevan PJ neon technology banner"/>
 
-<a href="https://github.com/jeevanpj">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F9CF4&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Exploring+Data+Science+%26+Machine+Learning;Learning+by+building+real-world+projects" alt="Typing introduction"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=%3E+Building+data-driven+solutions...;%3E+Exploring+Machine+Learning+%26+AI...;%3E+Turning+raw+data+into+useful+insights...;%3E+Learning.+Building.+Deploying." alt="Animated developer tagline"/>
 
-<p>
-  <a href="https://github.com/jeevanpj?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-203A43?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
-  <a href="https://github.com/jeevanpj/data-science-machine-learning"><img src="https://img.shields.io/badge/Featured-Data%20Science%20Projects-2563EB?style=for-the-badge&logo=python&logoColor=white" alt="Featured projects"/></a>
-</p>
+<br/>
+
+<a href="https://github.com/jeevanpj?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-00D9FF?style=for-the-badge&logo=github&logoColor=050816" alt="Explore repositories"/></a>
+<a href="https://data-science-machine-learning-fznu5w5wlnbwajtyz6tvn4.streamlit.app/"><img src="https://img.shields.io/badge/LIVE-ML%20DEMO-9B5CFF?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live ML demo"/></a>
 
 </div>
 
 ---
 
-## 👋 About Me
-
-I'm **Jeevan PJ**, an aspiring Data Scientist building practical skills through hands-on projects and continuous learning.
-
-- 📊 Interested in data analysis, statistics, and machine learning.
-- 🐍 Working with Python and its data science ecosystem.
-- 🤖 Building end-to-end machine learning projects and experimenting with model deployment.
-- 🌱 Continuously learning, practising, and improving through projects.
-- 🎯 Goal: turn data into meaningful insights and useful applications.
-
-## 🧰 Technologies & Tools
+<h2 align="center">⚡ ABOUT ME</h2>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Aspiring Data Scientist · Machine Learning Enthusiast · Python Developer**
+
+I enjoy exploring data, discovering patterns, and building machine learning projects that turn analytical ideas into practical applications.
 
 </div>
 
-## 🚀 Featured Project
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Current Focus
+- Data analysis and exploratory data analysis
+- Statistics and data preprocessing
+- Machine learning algorithms
+- Model evaluation and feature engineering
+- Streamlit app development
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Mission
+- Build practical end-to-end projects
+- Write clean, understandable code
+- Document experiments and results
+- Deploy useful ML applications
+- Keep learning through consistent practice
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">🛠️ TECH STACK</h2>
+
+<div align="center">
+
+**LANGUAGES & DATA**
+
+<img src="https://skillicons.dev/icons?i=python,mysql" alt="Python and MySQL"/>
+
+**DATA SCIENCE & MACHINE LEARNING**
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+
+**DEVELOPMENT & TOOLS**
+
+<img src="https://skillicons.dev/icons?i=jupyter,git,github,vscode,anaconda" alt="Jupyter, Git, GitHub, VS Code and Anaconda"/>
+<br/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+
+</div>
+
+---
+
+<h2 align="center">🚀 FEATURED PROJECT</h2>
+
+<div align="center">
+
+<a href="https://github.com/jeevanpj/data-science-machine-learning/tree/main/projects/inventory-stock-risk-prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevanpj&repo=data-science-machine-learning&theme=tokyonight&hide_border=true&bg_color=080D1A&title_color=00E5FF&icon_color=9B5CFF&text_color=E6F1FF" alt="Data Science and Machine Learning repository"/>
+</a>
 
 ### 📦 Inventory Stock Risk Prediction
 
-A machine learning classification project that predicts potential inventory stockout or overstock risk from inventory-related inputs.
+Machine learning classification project to estimate potential stockout or overstock risk from inventory data.
 
-- Built a data preparation, feature engineering, model training, and evaluation workflow.
-- Trained a Random Forest classification model.
-- Created an interactive Streamlit application for predictions.
-
-<p>
-  <a href="https://data-science-machine-learning-fznu5w5wlnbwajtyz6tvn4.streamlit.app/"><img src="https://img.shields.io/badge/Live%20Demo-Open%20App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live demo"/></a>
-  <a href="https://github.com/jeevanpj/data-science-machine-learning/tree/main/projects/inventory-stock-risk-prediction"><img src="https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="View project"/></a>
-</p>
-
-## 📈 What I'm Working On
-
-- Practising Python, data analysis, and statistics.
-- Developing machine learning projects from data preparation to evaluation.
-- Improving project documentation, reproducibility, and deployment.
-- Sharing consistent progress through GitHub repositories.
-
-## 🤝 Connect
-
-<div align="center">
-
-<a href="https://github.com/jeevanpj"><img src="https://img.shields.io/badge/GitHub-jeevanpj-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://data-science-machine-learning-fznu5w5wlnbwajtyz6tvn4.streamlit.app/"><img src="https://img.shields.io/badge/⚡_LAUNCH_LIVE_APP-00D9FF?style=for-the-badge&logo=streamlit&logoColor=050816" alt="Launch live app"/></a>
+<a href="https://github.com/jeevanpj/data-science-machine-learning/tree/main/projects/inventory-stock-risk-prediction"><img src="https://img.shields.io/badge/⌘_VIEW_SOURCE-9B5CFF?style=for-the-badge&logo=github&logoColor=white" alt="View source code"/></a>
 
 </div>
 
 ---
 
+<h2 align="center">📊 GITHUB ACTIVITY</h2>
+
 <div align="center">
 
-*“Learn continuously. Build consistently. Improve every day.”*
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jeevanpj&show_icons=true&hide_border=true&bg_color=080D1A&title_color=00E5FF&icon_color=9B5CFF&text_color=E6F1FF&ring_color=00E5FF" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanpj&layout=compact&hide_border=true&bg_color=080D1A&title_color=00E5FF&text_color=E6F1FF" alt="Most used languages"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" alt="Footer banner"/>
+<img src="https://streak-stats.demolab.com?user=jeevanpj&theme=tokyonight&hide_border=true&background=080D1A&ring=00E5FF&fire=9B5CFF&currStreakLabel=00E5FF" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+<h2 align="center">🌐 CONNECT WITH ME</h2>
+
+<div align="center">
+
+<a href="https://github.com/jeevanpj"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:4B1D78,100:050816&height=120&section=footer" width="100%" alt="Neon footer"/>
+
+<sub>⚡ LEARN • BUILD • EXPERIMENT • DEPLOY ⚡</sub>
 
 </div>

@@ -1,29 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080F1F"/><stop offset=".55" stop-color="#101D35"/><stop offset="1" stop-color="#142B3B"/></linearGradient>
- <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22D3A6"/><stop offset=".55" stop-color="#4F9CF9"/><stop offset="1" stop-color="#8B7CF6"/></linearGradient>
- <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#A8BED8" stroke-opacity=".08" stroke-width="1"/></pattern>
- <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050A0A"/><stop offset=".55" stop-color="#071512"/><stop offset="1" stop-color="#0B211A"/></linearGradient>
+ <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#39FF9C"/><stop offset="1" stop-color="#00BFA6"/></linearGradient>
+ <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#42E89A" stroke-opacity=".055"/></pattern>
+ <filter id="softglow"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
-<rect width="1200" height="320" rx="16" fill="url(#bg)"/><rect width="1200" height="320" rx="16" fill="url(#grid)"/>
-<path d="M0 270H1200" stroke="#7C91AC" stroke-opacity=".13"/>
-<g font-family="monospace" font-size="12" fill="#7E9AB7" opacity=".65">
-<text x="760" y="55">01  /  DATA PIPELINE</text><text x="760" y="78">02  /  FEATURE ENGINEERING</text><text x="760" y="101">03  /  MODEL EVALUATION</text>
-<text x="760" y="286">QUERY  ·  TRANSFORM  ·  ANALYZE  ·  DEPLOY</text>
+<rect width="1200" height="320" rx="14" fill="url(#bg)"/><rect width="1200" height="320" rx="14" fill="url(#grid)"/>
+<g fill="#32E98D" font-family="monospace" font-size="13" opacity=".18">
+<text x="730" y="28">01001010  10110100  01011001  11001010</text><text x="760" y="300">10100101  01101001  11010010  00101101</text>
+<text x="1090" y="45">01101</text><text x="1130" y="72">10010</text><text x="1080" y="100">11001</text><text x="1140" y="128">01011</text><text x="1085" y="156">10110</text><text x="1130" y="184">00101</text><text x="1080" y="212">11010</text>
 </g>
-<g fill="none" stroke="url(#line)" stroke-width="2.2" opacity=".9">
-<path d="M760 150H850L890 112H970L1010 150H1110"/>
-<path d="M760 205H835L875 245H965L1005 205H1110"/>
-<path d="M850 150V205M970 112V245M1110 150V205" opacity=".6"/>
+<g>
+<rect x="720" y="48" width="410" height="222" rx="9" fill="#08110F" stroke="#1A6848" stroke-width="1.5"/>
+<path d="M720 78H1130" stroke="#1A6848"/>
+<circle cx="741" cy="63" r="4" fill="#FF6B6B"/><circle cx="756" cy="63" r="4" fill="#F5C451"/><circle cx="771" cy="63" r="4" fill="#39D98A"/>
+<text x="795" y="67" fill="#7DAA91" font-family="monospace" font-size="11">terminal — data-lab</text>
+<g font-family="monospace" font-size="13">
+<text x="744" y="105" fill="#39FF9C">$</text><text x="760" y="105" fill="#D3E9DC"> python pipeline.py</text>
+<text x="744" y="133" fill="#6F9E83">[01]</text><text x="783" y="133" fill="#C1D8CA"> loading raw datasets...</text>
+<text x="744" y="161" fill="#6F9E83">[02]</text><text x="783" y="161" fill="#C1D8CA"> cleaning &amp; transforming</text>
+<text x="744" y="189" fill="#6F9E83">[03]</text><text x="783" y="189" fill="#C1D8CA"> training predictive model</text>
+<text x="744" y="217" fill="#6F9E83">[04]</text><text x="783" y="217" fill="#39FF9C"> analysis complete ✓</text>
+<text x="744" y="246" fill="#39FF9C">$</text><rect x="760" y="235" width="8" height="15" fill="#39FF9C" filter="url(#softglow)"/>
 </g>
-<g fill="#0E2033" stroke="url(#line)" stroke-width="2">
-<rect x="730" y="132" width="62" height="36" rx="5"/><rect x="850" y="94" width="80" height="36" rx="5"/><rect x="970" y="132" width="80" height="36" rx="5"/><rect x="1080" y="132" width="62" height="36" rx="5"/>
-<rect x="730" y="187" width="62" height="36" rx="5"/><rect x="850" y="227" width="80" height="36" rx="5"/><rect x="970" y="187" width="80" height="36" rx="5"/><rect x="1080" y="187" width="62" height="36" rx="5"/>
 </g>
-<g fill="#D9E8F7" font-family="monospace" font-size="11" text-anchor="middle"><text x="761" y="154">API</text><text x="890" y="116">ETL</text><text x="1010" y="154">ML</text><text x="1111" y="154">SQL</text><text x="761" y="209">CSV</text><text x="890" y="249">DATA</text><text x="1010" y="209">BI</text><text x="1111" y="209">APP</text></g>
-<g fill="none" stroke="#22D3A6" stroke-width="2" filter="url(#glow)"><path d="M690 70V250" opacity=".65"/><path d="M72 232H470" opacity=".35"/></g>
-<text x="72" y="88" fill="#67DCC0" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="4">DATA SCIENCE  /  MACHINE LEARNING  /  ENGINEERING</text>
-<text x="68" y="166" fill="#F4F7FB" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="700" letter-spacing="1">JEEVAN P J</text>
-<text x="72" y="211" fill="#AFC2D8" font-family="Arial,Helvetica,sans-serif" font-size="20">From data workflows to intelligent applications.</text>
-<rect x="72" y="242" width="290" height="3" rx="1.5" fill="url(#line)"/>
+<path d="M72 235H500" stroke="#39FF9C" stroke-opacity=".35"/>
+<text x="72" y="88" fill="#39FF9C" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="4">DATA SCIENCE  /  MACHINE LEARNING  /  ENGINEERING</text>
+<text x="68" y="166" fill="#F1F7F3" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="700" letter-spacing="1">JEEVAN P J</text>
+<text x="72" y="211" fill="#A8C5B5" font-family="Arial,Helvetica,sans-serif" font-size="20">From raw data to intelligent systems.</text>
+<rect x="72" y="252" width="245" height="3" rx="1.5" fill="url(#neon)"/>
 </svg>

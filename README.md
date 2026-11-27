@@ -69,6 +69,7 @@ Data Science is my primary focus. I work across the complete data science lifecy
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
 
@@ -83,9 +84,22 @@ Data Science is my primary focus. I work across the complete data science lifecy
 
 ---
 
-<h2 align="center">🚀 FEATURED PROJECT</h2>
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
 
 <div align="center">
+
+<a href="https://github.com/jeevanpj/StockSense-Stock-Trend-Prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevanpj&repo=StockSense-Stock-Trend-Prediction&theme=tokyonight&hide_border=true&bg_color=080D1A&title_color=00E5FF&icon_color=9B5CFF&text_color=E6F1FF" alt="StockSense repository card"/>
+</a>
+
+### 📈 StockSense – Stock Trend Prediction
+
+End-to-end stock trend analysis and experimental next-day direction classification for Reliance Industries using Yahoo Finance data, technical indicators, Random Forest, XGBoost and an interactive Streamlit dashboard.
+
+<a href="https://stocksense-stock-trend-prediction-ml5hw5zrll3tmznavz6r7c.streamlit.app/"><img src="https://img.shields.io/badge/⚡_LAUNCH_LIVE_APP-00D9FF?style=for-the-badge&logo=streamlit&logoColor=050816" alt="Launch StockSense live app"/></a>
+<a href="https://github.com/jeevanpj/StockSense-Stock-Trend-Prediction"><img src="https://img.shields.io/badge/⌘_VIEW_SOURCE-9B5CFF?style=for-the-badge&logo=github&logoColor=white" alt="View StockSense source code"/></a>
+
+<br/><br/>
 
 <a href="https://github.com/jeevanpj/data-science-machine-learning/tree/main/projects/inventory-stock-risk-prediction">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevanpj&repo=data-science-machine-learning&theme=tokyonight&hide_border=true&bg_color=080D1A&title_color=00E5FF&icon_color=9B5CFF&text_color=E6F1FF" alt="Data Science and Machine Learning repository"/>
@@ -95,8 +109,8 @@ Data Science is my primary focus. I work across the complete data science lifecy
 
 End-to-end Data Science and Machine Learning project: data preparation, exploratory analysis, feature engineering, classification model development, evaluation and Streamlit deployment to estimate inventory stockout or overstock risk.
 
-<a href="https://data-science-machine-learning-fznu5w5wlnbwajtyz6tvn4.streamlit.app/"><img src="https://img.shields.io/badge/⚡_LAUNCH_LIVE_APP-00D9FF?style=for-the-badge&logo=streamlit&logoColor=050816" alt="Launch live app"/></a>
-<a href="https://github.com/jeevanpj/data-science-machine-learning/tree/main/projects/inventory-stock-risk-prediction"><img src="https://img.shields.io/badge/⌘_VIEW_SOURCE-9B5CFF?style=for-the-badge&logo=github&logoColor=white" alt="View source code"/></a>
+<a href="https://data-science-machine-learning-fznu5w5wlnbwajtyz6tvn4.streamlit.app/"><img src="https://img.shields.io/badge/⚡_LAUNCH_LIVE_APP-00D9FF?style=for-the-badge&logo=streamlit&logoColor=050816" alt="Launch Inventory Stock Risk live app"/></a>
+<a href="https://github.com/jeevanpj/data-science-machine-learning/tree/main/projects/inventory-stock-risk-prediction"><img src="https://img.shields.io/badge/⌘_VIEW_SOURCE-9B5CFF?style=for-the-badge&logo=github&logoColor=white" alt="View Inventory Stock Risk source code"/></a>
 
 </div>
 

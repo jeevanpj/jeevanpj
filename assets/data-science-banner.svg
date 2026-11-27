@@ -1,1 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340"><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101B3D"/><stop offset=".52" stop-color="#38206F"/><stop offset="1" stop-color="#087E8B"/></linearGradient><linearGradient id="accent"><stop stop-color="#55E6C1"/><stop offset=".52" stop-color="#6EA8FE"/><stop offset="1" stop-color="#FF9F7A"/></linearGradient><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#fff" opacity=".16"/></pattern></defs><rect width="1200" height="340" rx="28" fill="url(#bg)"/><rect width="1200" height="340" rx="28" fill="url(#dots)"/><circle cx="1030" cy="65" r="170" fill="#69E6D0" opacity=".08"/><circle cx="1100" cy="280" r="130" fill="#FF9F7A" opacity=".10"/><g fill="none" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d="M760 235 L820 190 L875 210 L940 125 L1000 155 L1070 85 L1135 105"/><path d="M760 255 H1140" opacity=".3"/><path d="M760 95 V255" opacity=".3"/></g><g fill="#fff"><circle cx="820" cy="190" r="6"/><circle cx="875" cy="210" r="6"/><circle cx="940" cy="125" r="6"/><circle cx="1000" cy="155" r="6"/><circle cx="1070" cy="85" r="6"/><circle cx="1135" cy="105" r="6"/></g><g transform="translate(760 270)" opacity=".9"><rect width="36" height="30" rx="6" fill="#55E6C1"/><rect x="50" y="-18" width="36" height="48" rx="6" fill="#6EA8FE"/><rect x="100" y="-38" width="36" height="68" rx="6" fill="#FF9F7A"/><rect x="150" y="-58" width="36" height="88" rx="6" fill="#B69CFF"/></g><text x="72" y="116" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700" letter-spacing="5">DATA SCIENCE / MACHINE LEARNING</text><text x="68" y="190" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="62" font-weight="700">JEEVAN P J</text><rect x="72" y="218" width="390" height="5" rx="2.5" fill="url(#accent)"/><text x="72" y="270" fill="#DCE8FF" font-family="Arial,Helvetica,sans-serif" font-size="22">Turning data into useful, deployable solutions.</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080F1F"/><stop offset=".55" stop-color="#101D35"/><stop offset="1" stop-color="#142B3B"/></linearGradient>
+ <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22D3A6"/><stop offset=".55" stop-color="#4F9CF9"/><stop offset="1" stop-color="#8B7CF6"/></linearGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#A8BED8" stroke-opacity=".08" stroke-width="1"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="320" rx="16" fill="url(#bg)"/><rect width="1200" height="320" rx="16" fill="url(#grid)"/>
+<path d="M0 270H1200" stroke="#7C91AC" stroke-opacity=".13"/>
+<g font-family="monospace" font-size="12" fill="#7E9AB7" opacity=".65">
+<text x="760" y="55">01  /  DATA PIPELINE</text><text x="760" y="78">02  /  FEATURE ENGINEERING</text><text x="760" y="101">03  /  MODEL EVALUATION</text>
+<text x="760" y="286">QUERY  ·  TRANSFORM  ·  ANALYZE  ·  DEPLOY</text>
+</g>
+<g fill="none" stroke="url(#line)" stroke-width="2.2" opacity=".9">
+<path d="M760 150H850L890 112H970L1010 150H1110"/>
+<path d="M760 205H835L875 245H965L1005 205H1110"/>
+<path d="M850 150V205M970 112V245M1110 150V205" opacity=".6"/>
+</g>
+<g fill="#0E2033" stroke="url(#line)" stroke-width="2">
+<rect x="730" y="132" width="62" height="36" rx="5"/><rect x="850" y="94" width="80" height="36" rx="5"/><rect x="970" y="132" width="80" height="36" rx="5"/><rect x="1080" y="132" width="62" height="36" rx="5"/>
+<rect x="730" y="187" width="62" height="36" rx="5"/><rect x="850" y="227" width="80" height="36" rx="5"/><rect x="970" y="187" width="80" height="36" rx="5"/><rect x="1080" y="187" width="62" height="36" rx="5"/>
+</g>
+<g fill="#D9E8F7" font-family="monospace" font-size="11" text-anchor="middle"><text x="761" y="154">API</text><text x="890" y="116">ETL</text><text x="1010" y="154">ML</text><text x="1111" y="154">SQL</text><text x="761" y="209">CSV</text><text x="890" y="249">DATA</text><text x="1010" y="209">BI</text><text x="1111" y="209">APP</text></g>
+<g fill="none" stroke="#22D3A6" stroke-width="2" filter="url(#glow)"><path d="M690 70V250" opacity=".65"/><path d="M72 232H470" opacity=".35"/></g>
+<text x="72" y="88" fill="#67DCC0" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="4">DATA SCIENCE  /  MACHINE LEARNING  /  ENGINEERING</text>
+<text x="68" y="166" fill="#F4F7FB" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="700" letter-spacing="1">JEEVAN P J</text>
+<text x="72" y="211" fill="#AFC2D8" font-family="Arial,Helvetica,sans-serif" font-size="20">From data workflows to intelligent applications.</text>
+<rect x="72" y="242" width="290" height="3" rx="1.5" fill="url(#line)"/>
+</svg>

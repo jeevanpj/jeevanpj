@@ -112,6 +112,19 @@ End-to-end Data Science and Machine Learning project: data preparation, explorat
 <a href="https://data-science-machine-learning-fznu5w5wlnbwajtyz6tvn4.streamlit.app/"><img src="https://img.shields.io/badge/⚡_LAUNCH_LIVE_APP-00D9FF?style=for-the-badge&logo=streamlit&logoColor=050816" alt="Launch Inventory Stock Risk live app"/></a>
 <a href="https://github.com/jeevanpj/data-science-machine-learning/tree/main/projects/inventory-stock-risk-prediction"><img src="https://img.shields.io/badge/⌘_VIEW_SOURCE-9B5CFF?style=for-the-badge&logo=github&logoColor=white" alt="View Inventory Stock Risk source code"/></a>
 
+<br/><br/>
+
+<a href="https://github.com/jeevanpj/data-science-machine-learning/tree/main/projects/DataFlow_ETL_Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jeevanpj&repo=data-science-machine-learning&theme=tokyonight&hide_border=true&bg_color=080D1A&title_color=00E5FF&icon_color=9B5CFF&text_color=E6F1FF" alt="DataFlow project repository"/>
+</a>
+
+### 🔄 DataFlow – API-Based ETL Pipeline
+
+An end-to-end data engineering project that extracts weather and economic indicator data from public APIs, transforms it with Python and Pandas, loads it into a SQLite warehouse, and presents the results in an interactive Streamlit dashboard.
+
+<a href="https://data-science-machine-learning-o9aglogqxhhnsmn3braox4.streamlit.app"><img src="https://img.shields.io/badge/⚡_LAUNCH_LIVE_APP-00D9FF?style=for-the-badge&logo=streamlit&logoColor=050816" alt="Launch DataFlow live app"/></a>
+<a href="https://github.com/jeevanpj/data-science-machine-learning/tree/main/projects/DataFlow_ETL_Project"><img src="https://img.shields.io/badge/⌘_VIEW_SOURCE-9B5CFF?style=for-the-badge&logo=github&logoColor=white" alt="View DataFlow source code"/></a>
+
 </div>
 
 ---
